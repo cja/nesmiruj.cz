@@ -3,14 +3,14 @@ function go() {
         $('#cpu').html("CPU: " + navigator.hardwareConcurrency + "xCore | ");
     }
     getCPU();
-
+/*
     function getIP() {
         $.getJSON('https://api.ipify.org?format=json', function (data) {
             $('#ip').html("IP: " + data.ip + " | ");
         });
     }
     getIP();
-
+*/
     function getScreen() {
         var rh = window.innerHeight;
         var rw = window.innerWidth;
