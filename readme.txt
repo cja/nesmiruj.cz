@@ -6,7 +6,7 @@
  ░███  ░░█████  ░███ ░   █ ███    ░███ ░███      ░███  ░███  ░███    ░███  ░███   ░███  ███   ░███ 
  █████  ░░█████ ██████████░░█████████  █████     █████ █████ █████   █████ ░░████████  ░░████████  
 ░░░░░    ░░░░░ ░░░░░░░░░░  ░░░░░░░░░  ░░░░░     ░░░░░ ░░░░░ ░░░░░   ░░░░░   ░░░░░░░░    ░░░░░░░░
-cja.github.io/nesmiruj.cz/ *** https://nesmiruj.netlify.app/ *** https://www.nesmiruj.cz/
+https://cja.github.io/nesmiruj.cz/ *** https://nesmiruj.netlify.app/ *** https://www.nesmiruj.cz/
 
 $ dig nesmiruj.cz +nostats +nocomments +nocmd
 
