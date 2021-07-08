@@ -6,3 +6,12 @@
  ░███  ░░█████  ░███ ░   █ ███    ░███ ░███      ░███  ░███  ░███    ░███  ░███   ░███  ███   ░███ 
  █████  ░░█████ ██████████░░█████████  █████     █████ █████ █████   █████ ░░████████  ░░████████  
 ░░░░░    ░░░░░ ░░░░░░░░░░  ░░░░░░░░░  ░░░░░     ░░░░░ ░░░░░ ░░░░░   ░░░░░   ░░░░░░░░    ░░░░░░░░
+cja.github.io/nesmiruj.cz/ *** https://nesmiruj.netlify.app/ *** https://www.nesmiruj.cz/
+
+$ dig nesmiruj.cz +nostats +nocomments +nocmd
+
+;nesmiruj.cz.			IN	A
+nesmiruj.cz.		1800	IN	A	185.199.111.153
+nesmiruj.cz.		1800	IN	A	185.199.108.153
+nesmiruj.cz.		1800	IN	A	185.199.109.153
+nesmiruj.cz.		1800	IN	A	185.199.110.153
