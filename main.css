@@ -506,6 +506,7 @@ circle:nth-of-type(4) {
     max-width: 100%;
   }
   .group div .homeImg {
+      display: none;
     position: absolute;
     width: 100%;
     opacity: 0.05;
