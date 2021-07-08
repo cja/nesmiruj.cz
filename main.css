@@ -507,10 +507,8 @@ circle:nth-of-type(4) {
   }
   .group div .homeImg {
     position: absolute;
-    width: 100% !important;
+    width: 100%;
     opacity: 0.05;
-    -webkit-transform: scale(2) !important;
-            transform: scale(2) !important;
     top: -50vh;
   }
   .group div.forth {
