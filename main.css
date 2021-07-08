@@ -496,6 +496,7 @@ circle:nth-of-type(4) {
   body h1 {
     font-size: 3em;
   }
+    #info{background: black;}
   .group {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
