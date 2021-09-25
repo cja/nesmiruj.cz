@@ -7,6 +7,7 @@
  █████  ░░█████ ██████████░░█████████  █████     █████ █████ █████   █████ ░░████████  ░░████████  
 ░░░░░    ░░░░░ ░░░░░░░░░░  ░░░░░░░░░  ░░░░░     ░░░░░ ░░░░░ ░░░░░   ░░░░░   ░░░░░░░░    ░░░░░░░░
 https://cja.github.io/nesmiruj.cz/ *** https://nesmiruj.netlify.app/ *** https://www.nesmiruj.cz/
+#IPFS: https://cloudflare-ipfs.com/ipfs/QmZnUEvES9w27Q6U7eLkm8m1cN5aECsDy8DphfwhDsK4Zj
 
 $ dig nesmiruj.cz +nostats +nocomments +nocmd
 
